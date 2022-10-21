@@ -21,7 +21,7 @@ body {
   }
 
 .color{
-    font-size: 4rem;
+    font-size: 3rem;
     color: transparent;
     background: conic-gradient(
         #f72f35 12%,
@@ -37,8 +37,8 @@ body {
 }
 div {
     position: absolute;
-    left: 27%;
-    top: 40%;
+    left: 23%;
+    top: 30%;
   }
   div::before,
   div::after {
